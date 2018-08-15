@@ -1,0 +1,41 @@
+{
+   "className":"baz",
+   "tree":{
+      "tagName":"div",
+      "attributes":{
+         "id":"0",
+         "class":"foo bar baz"
+      },
+      "childNodes":[
+         {
+            "tagName":"span",
+            "attributes":{
+               "id":"1",
+               "class":"baz"
+            },
+            "childNodes":[
+
+            ]
+         },
+         {
+            "tagName":"p",
+            "attributes":{
+               "id":"2",
+               "class":"baz"
+            },
+            "childNodes":[
+               {
+                  "tagName":"span",
+                  "attributes":{
+                     "id":"3",
+                     "class":"ba1"
+                  },
+                  "childNodes":[
+
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}

@@ -1,2 +1,7 @@
 *.class
 a.out
+.DS_Store
+*/**.out
+*/**/dist/*
+*/**/node_modules/*
+*/**/build/*

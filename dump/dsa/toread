@@ -1,0 +1,9 @@
+For an unweighted graph, DFS traversal of the graph produces the minimum spanning tree and all pair shortest path tree.
+
+
+
+Check::
+
+Detect cycle in a graph
+find a path between two given vertices u and z
+
