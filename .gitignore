@@ -5,3 +5,4 @@ a.out
 */**/dist/*
 */**/node_modules/*
 */**/build/*
+/oop-trials/ShoppingCart/nbproject/private/
