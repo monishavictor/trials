@@ -1,0 +1,20 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "BE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0",
+    "sequelize-cli": "^4.0.0",
+    "underscore": "^1.9.1"
+  }
+}
